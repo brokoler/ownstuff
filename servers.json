@@ -2,7 +2,7 @@
     "servers": [
         {
             "name": "SideStore",
-            "address": "sidestore-anisette.fly.dev"
+            "address": "https://sidestore-anisette.fly.dev"
         }
     ]
 }
