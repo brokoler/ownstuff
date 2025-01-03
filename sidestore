@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "SideStore",
+            "address": "sidestore-anisette.fly.dev"
+        }
+    ]
+}
